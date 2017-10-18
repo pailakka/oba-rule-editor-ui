@@ -1,0 +1,2 @@
+# FTA OBA sääntöeditori
+Työkalu `onebusaway-gtfs-transformer` ([https://github.com/OneBusAway/onebusaway-gtfs-modules/](https://github.com/OneBusAway/onebusaway-gtfs-modules/)) sääntötiedostojen hallintaan selainkäyttöliittymällä.

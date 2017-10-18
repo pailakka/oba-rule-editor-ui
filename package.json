@@ -1,0 +1,30 @@
+{
+  "name": "transformer-rule-ui",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://beta.liikennevirasto.fi/joukkoliikenne/koontikanta_muutokset/",
+  "devDependencies": {
+    "inferno-scripts": "5.0.0"
+  },
+  "dependencies": {
+    "babel-plugin-inferno": "^3.3.0",
+    "bootstrap": "^4.0.0-beta",
+    "form-serialize": "^0.7.2",
+    "history": "^4.7.2",
+    "inferno": "^3.10.1",
+    "inferno-compat": "^3.10.1",
+    "inferno-component": "^3.10.1",
+    "inferno-router": "^3.10.1",
+    "jquery": "^3.2.1",
+    "moment": "^2.19.1",
+    "popper.js": "^1.12.5",
+    "raven-js": "^3.19.1",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "scripts": {
+    "start": "inferno-scripts start",
+    "build": "inferno-scripts build",
+    "test": "inferno-scripts test --env=jsdom",
+    "eject": "inferno-scripts eject"
+  }
+}
